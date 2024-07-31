@@ -4,7 +4,6 @@
 #include <math.h>
 #ifdef _WIN32
 #include <windows.h>
-#include <unistd.h>
 #endif
 
 #define PI 3.14159265
